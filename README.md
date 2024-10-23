@@ -27,4 +27,4 @@ If any of these files do not exist, the program will create them automatically.
 2. Navigate to the project directory.  
 3. Run the application using Python:  
    ```bash  
-   python todo.py
+   ./ToDoList.sh
